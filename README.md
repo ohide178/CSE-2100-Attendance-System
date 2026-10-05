@@ -27,7 +27,7 @@ npm install
 node server.js
 ```
 The server will start on http://localhost:5000.
-2. Run Flutter Client
+### 2. Run Flutter Client
 ```bash
 flutter pub get
 flutter run -d chrome    # For Web
