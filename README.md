@@ -25,7 +25,7 @@ A full-stack, cross-platform academic evaluation and attendance tracking system 
 cd ruet_attendance_backend
 npm install
 node server.js
-
+```
 The server will start on http://localhost:5000.
 
 2. Run Flutter Client
